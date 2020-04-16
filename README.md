@@ -16,3 +16,9 @@ git clone https://github.com/digital-church-transformation/App-template.git
 cd App-template
 ionic serve
 ```
+
+
+
+## Issues
+
+On initialization of firebase a workaround might be required: https://github.com/arnesson/cordova-plugin-firebase/issues/1033#issuecomment-477005240 
