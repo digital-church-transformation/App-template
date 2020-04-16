@@ -14,6 +14,7 @@ git clone https://github.com/digital-church-transformation/App-template.git
 4. Serve Web Version: 
 ```
 cd App-template
+npm install
 ionic serve
 ```
 
