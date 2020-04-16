@@ -1,5 +1,8 @@
 {
   "name": "App-template",
-  "integrations": {},
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
   "type": "angular"
 }
